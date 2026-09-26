@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- TODO: put your CV PDF at files/cv.pdf and uncomment the next line -->
+<!-- TODO: put a web version of your CV (without your phone number) at files/cv.pdf and uncomment the next line -->
 <!-- [Download CV (PDF)]({{ base_path }}/files/cv.pdf) -->
 
 Education
 ======
-* **B.S. in Computer Science**, King Fahd University of Petroleum & Minerals (KFUPM), May 2026
-  * GPA 3.78/4.00 (major GPA 3.80/4.00), First Honors
-  * Concentration in Artificial Intelligence & Machine Learning
+* **B.S. in Computer Science**, King Fahd University of Petroleum and Minerals (KFUPM), 2021–2026
+  * First Honors; GPA 3.781/4.00 (major GPA 3.802/4.00)
+  * Concentration in Artificial Intelligence and Machine Learning
 * **Graduate coursework**, KFUPM, Fall 2026 (Emerging Professor Program)
   * ICS 611: Combinatorial, Approximation & Probabilistic Algorithms
   * ICS 590: Deep Reinforcement Learning
@@ -24,15 +24,17 @@ Education
 
 Research experience
 ======
-* **Maximum Weighted Matching in General Graphs**, KFUPM
-  * Advisor: Dr. Ahmed Al-Herz
-  * Implemented three exact maximum weighted matching algorithms in C++: Edmonds' (Galil–Micali–Gabow), Gabow's, and the Duan–Pettie–Su scaling algorithm for perfect matching
-  * Validated against the LEMON graph library; evaluated across graph families, sizes, densities, and edge-weight distributions
+* **Maximum Weighted Matching Algorithms**, KFUPM, 08/2025–present
+  * Supervisor: Dr. Ahmed Al-Herz
+  * Implemented three exact maximum weighted matching algorithms in C++: Edmonds' (Galil–Micali–Gabow), Gabow's, and the Duan–Pettie–Su Hybrid scaling algorithm for perfect matching
+  * Designed an experimental study of whether Gabow's theoretical data-structure improvements over Edmonds pay off in practice, varying graph order, density, weight range, and structure
+  * Verified every result against independent LEMON reference solutions
   * First-author manuscript; arXiv preprint coming soon
 
-* **WaveFlow-UIE: Underwater Image Enhancement**, KFUPM
-  * Advisor: Dr. Muzammil Behzad
-  * Wavelet-domain flow model with a physics-prior branch; about 4× faster inference than a diffusion baseline, with improved perceptual metrics across multiple underwater datasets
+* **WaveFlow-UIE: Underwater Image Restoration**, KFUPM, 01/2026–05/2026
+  * Supervisor: Dr. Muzammil Behzad
+  * Built a single-pipeline wavelet-domain flow-matching model with a physics-prior branch; about 4× faster inference than the WF-Diff diffusion baseline, with competitive perceptual quality (LPIPS, FID)
+  * Benchmarked against five published methods on six underwater datasets under a unified evaluation protocol
   * Second author of four; arXiv preprint coming soon
 
 Preprints & manuscripts
@@ -41,22 +43,30 @@ Preprints & manuscripts
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Honors
+Honors & awards
 ======
-* **Emerging Professor Program**, KFUPM, 2025: one of 10 selected from 400+ applicants; full sponsorship for PhD study
+* **Emerging Professor Program (EPP) Scholarship**, KFUPM: one of 10 selected from 400+ applicants; full financial sponsorship for doctoral study
 * **First Honors**, KFUPM, 2026
 
-Teaching
+Teaching & service
 ======
-* **Grader**, ICS 353: Design & Analysis of Algorithms, KFUPM
-  * Two consecutive terms in senior year; graded homework for 100+ students
+* **Grader**, ICS 353: Design & Analysis of Algorithms, KFUPM, 08/2025–05/2026
+  * Selected for two consecutive terms to grade theoretical assignments for a 100+ student course
+  * Gave written feedback on proof technique and algorithmic reasoning
+* **ICS Ambassador**, Department of Information & Computer Science, KFUPM, 02/2025–05/2026
+  * Hosted academic visitors and represented the department at formal events and campus tours
 
-Relevant coursework
+Other experience
 ======
-* Design & Analysis of Algorithms, Discrete Mathematics, Principles of Artificial Intelligence, Vertically Integrated Research
-* Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+* **CS & AI Team Lead**, Autonomous Misting Drone System (senior project), KFUPM, 08/2025–05/2026
+  * Led the CS & AI sub-team of an autonomous UAV misting system for outdoor heat-stress mitigation, with a real-time vision stack on an NVIDIA Jetson Orin Nano and a fine-tuned YOLO model for crowd density estimation
+  * Optimized the edge inference pipeline to 0.94 mAP@0.5 with under 45 ms decision latency
+* **Software Engineering Intern**, TGT Diagnostics, 06/2025–08/2025
+  * Built an automated tool for bi-directional conversion between LAS and Excel formats
+  * Built a Python module to detect wellbore casing corrosion and generate analytical plots
 
 Skills
 ======
-* **Programming:** C++ <!-- TODO: add other languages and tools (e.g., Python, PyTorch) -->
-* **Other:** LaTeX
+* **Programming:** C++, Python, Java, SQL, HTML/CSS
+* **Tools:** Git, Linux, LaTeX
+* **Languages:** Arabic (native), English (IELTS Academic 7.0)

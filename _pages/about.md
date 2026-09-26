@@ -13,7 +13,7 @@ I am a computer science graduate of [King Fahd University of Petroleum & Mineral
 
 My research interests are in **algorithms** and **combinatorial optimization**, especially **graph algorithms** and **learning-augmented algorithms**. I am also increasingly interested in reinforcement learning and other learning-based methods for combinatorial decision-making.
 
-My current project, advised by Dr. Ahmed Al-Herz, is on exact algorithms for maximum weighted matching in general graphs. I implemented Edmonds', Gabow's, and a scaling algorithm in C++ and evaluated them experimentally across graph families, sizes, densities, and edge-weight distributions. A paper is coming to arXiv soon. Before this, I worked with Dr. Muzammil Behzad on WaveFlow-UIE, a fast wavelet-domain flow model for underwater image enhancement. See [Research](/publications/) for details.
+My current project, advised by Dr. Ahmed Al-Herz, asks whether theoretical data-structure improvements for maximum weighted matching in general graphs pay off in practice. I implemented Edmonds', Gabow's, and a scaling algorithm in C++ and compared them experimentally across graph sizes, densities, weight ranges, and graph structures. The paper is coming to arXiv soon. Before this, I worked with Dr. Muzammil Behzad on WaveFlow-UIE, a fast wavelet-domain flow model for underwater image restoration. See [Research](/publications/) for details.
 
 ## News
 
