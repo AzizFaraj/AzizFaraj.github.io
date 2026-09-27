@@ -1,0 +1,32 @@
+# Builds the site on every push and uploads the result as a downloadable
+# "site-preview" zip (Actions tab -> latest run -> Artifacts).
+# Works on a private repo, so the site can be checked before it goes public.
+
+name: Build site preview
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
+          retention-days: 7
