@@ -47,8 +47,10 @@ html[data-theme="dark"] {
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};
+    --global-masthead-bg-color          : #4a2727;  /* dark red header */
+    --global-masthead-accent-color      : #b5524a;  /* header hover underline */
     --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-masthead-link-color-hover  : #f4a6a0;
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
