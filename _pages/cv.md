@@ -45,7 +45,7 @@ Preprints & manuscripts
 
 Honors & awards
 ======
-* **Emerging Professor Program (EPP) Scholarship**, KFUPM: one of 10 selected from 400+ applicants; full financial sponsorship for doctoral study
+* **Emerging Professor Program (EPP) Scholarship**, KFUPM, 2025–present: one of 10 selected from 400+ applicants; full financial sponsorship for doctoral study
 * **First Honors**, KFUPM, 2026
 
 Teaching & service
