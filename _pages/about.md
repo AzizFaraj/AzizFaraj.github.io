@@ -19,4 +19,4 @@ My current project, advised by Dr. Ahmed Al-Herz, asks whether theoretical data-
 
 - **Fall 2026:** Started graduate coursework at KFUPM in combinatorial and approximation algorithms, deep reinforcement learning, and research methods.
 - **May 2026:** Graduated from KFUPM with a B.S. in Computer Science (First Honors).
-- **2025:** Nominated by my department and selected, after a research presentation, for KFUPM's Emerging Professor Program, which sponsors doctoral study for future KFUPM faculty.
+- **2025:** Nominated by my department and selected for KFUPM's Emerging Professor Program, which sponsors doctoral study for future KFUPM faculty.
