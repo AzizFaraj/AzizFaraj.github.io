@@ -23,7 +23,7 @@ repository               : "AzizFaraj/AzizFaraj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Abdulaziz Alfaraj"
   pronouns         : # example: "she/her"
   bio              : "Algorithms & combinatorial optimization"
@@ -182,6 +182,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js

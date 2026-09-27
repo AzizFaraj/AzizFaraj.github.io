@@ -13,7 +13,7 @@ Built with the [Academic Pages](https://github.com/academicpages/academicpages.g
 | Home page | `_pages/about.md` |
 | CV page | `_pages/cv.md` |
 | Papers | one file per paper in `_publications/` |
-| Profile photo | `images/profile.png` |
+| Profile photo | `images/profile.jpg` |
 | PDFs (CV, papers) | `files/` (served at `/files/<name>.pdf`) |
 | Color theme | `site_theme` in `_config.yml` (`default`, `air`, `sunrise`, `mint`, `dirt`, `contrast`) |
 
