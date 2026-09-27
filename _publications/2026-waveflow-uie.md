@@ -14,3 +14,5 @@ Underwater images suffer from color distortion, scattering, and loss of detail, 
 Compared with the two-stage WF-Diff diffusion baseline, WaveFlow-UIE cuts inference time by about 4× at 256 × 256 resolution while remaining especially competitive on perceptual metrics (LPIPS, FID). Reducing inference from five flow steps to one keeps nearly all of the restoration quality and gives a further 4× speedup. We benchmark against five published methods on six underwater datasets.
 
 This work was done with Dr. Muzammil Behzad at KFUPM.
+
+**Code:** [github.com/BRAIN-Lab-AI/WaveLift-Fast-Frequency-Guided-Underwater-Restoration](https://github.com/BRAIN-Lab-AI/WaveLift-Fast-Frequency-Guided-Underwater-Restoration)
