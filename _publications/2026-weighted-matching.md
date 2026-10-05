@@ -1,5 +1,5 @@
 ---
-title: "Experimental Evaluation: Maximum Weighted Matching Algorithms"
+title: "An Experimental Evaluation of Maximum-Weight Matching Algorithms: Edmonds, Gabow, and Scaling on General Graphs"
 collection: publications
 category: preprints
 permalink: /publication/weighted-matching
@@ -17,7 +17,7 @@ This paper, advised by Dr. Ahmed Al-Herz at KFUPM, compares three exact implemen
 - **Gabow:** the same search, using Gabow's data structures for weighted matching [4, 5]
 - **Scaling:** the Hybrid scaling algorithm of Duan, Pettie, and Su for maximum weighted *perfect* matching [6]
 
-We ask whether Gabow's theoretical data-structure improvements over Edmonds lead to practical gains in runtime, memory, or completion, and how graph order, density, weight range, and graph structure affect all three algorithms. Every run is checked for optimality against independent LEMON reference solutions.
+We ask whether Gabow's theoretical data-structure improvements over Edmonds lead to practical gains in runtime, memory, or completion, and how graph order, density, weight range, and graph structure affect all three algorithms. LEMON serves as an independent correctness oracle.
 
 ## References
 

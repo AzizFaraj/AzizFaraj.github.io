@@ -4,8 +4,8 @@ collection: publications
 category: preprints
 permalink: /publication/waveflow-uie
 date: 2026-09-10
-authors: 'Mohammed Al Naser, <b>Abdulaziz Alfaraj</b>, Hassan Al Nasser, Muzammil Behzad'
-status: 'Preprint, arXiv link coming soon'
+authors: '<b>Abdulaziz Alfaraj</b>, Mohammed Al Naser, Hassan Al Nasser, Muzammil Behzad'
+status: 'Manuscript, to be submitted to IEEE Access'
 excerpt: 'A single-pipeline wavelet-domain flow model for underwater image restoration, about 4× faster at inference than a two-stage diffusion baseline.'
 ---
 
