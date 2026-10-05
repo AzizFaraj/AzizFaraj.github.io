@@ -25,7 +25,7 @@ Education
 
 Academic positions
 ======
-* **Graduate Assistant**, Department of Computer Science, KFUPM, 2026–present
+* **Graduate Assistant**, Department of Information & Computer Science, KFUPM, 2026–present
 
 Research experience
 ======
