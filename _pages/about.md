@@ -11,7 +11,7 @@ I am an M.S. student and graduate assistant in Computer Science at [King Fahd Un
 
 ## Research interests
 
-My research interests are in **algorithms** and **combinatorial optimization**, especially **graph algorithms**, both classical and **learning-augmented**: using machine learning, predictions, and reinforcement learning to improve algorithms while keeping their guarantees.
+My research interests are in **algorithms** and **combinatorial optimization**, especially **graph algorithms**, both classical and **learning-augmented**: using machine learning, predictions, and reinforcement learning to improve algorithms while keeping their guarantees. My work centers on **algorithm engineering**: implementing algorithms from theory and studying how they perform in practice.
 
 My current project, advised by Dr. Ahmed Al-Herz, asks whether theoretical data-structure improvements for maximum weighted matching in general graphs pay off in practice. I implemented Edmonds' algorithm, Gabow's algorithm, and the Duan–Pettie–Su scaling algorithm in C++ and compared them experimentally across graph sizes, densities, weight ranges, and graph structures. The paper is coming to arXiv soon. Before this, I worked with Dr. Muzammil Behzad on WaveFlow-UIE, a fast wavelet-domain flow model for underwater image restoration. See [Research](/publications/) for details.
 
