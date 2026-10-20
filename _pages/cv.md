@@ -40,7 +40,7 @@ Research experience
   * Supervisor: Dr. Muzammil Behzad
   * Built a single-pipeline wavelet-domain flow-matching model with a physics-prior branch; about 4× faster inference than the WF-Diff diffusion baseline, with competitive perceptual quality (LPIPS, FID)
   * Benchmarked against five published methods on six underwater datasets under a unified evaluation protocol
-  * First author of four; to be submitted to IEEE Access
+  * First-author manuscript
 
 Preprints & manuscripts
 ======
