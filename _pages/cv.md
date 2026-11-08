@@ -23,10 +23,6 @@ Education
   * First Honors; GPA 3.781/4.00 (major GPA 3.802/4.00)
   * Concentration in Artificial Intelligence and Machine Learning
 
-Academic positions
-======
-* **Graduate Assistant**, Department of Information & Computer Science, KFUPM, 2026–present
-
 Research experience
 ======
 * **Exact Maximum-Weight Matching in General Graphs**, KFUPM, 08/2025–present
@@ -54,6 +50,7 @@ Honors & awards
   * One of about 10 students nominated each year by the department from the Computer Science and Software Engineering programs
   * Full financial sponsorship for doctoral study
 * **First Honors**, KFUPM, 2026
+* **Dean's List**, College of Computing and Mathematics, KFUPM, Fall 2025 and Spring 2026
 
 Teaching & service
 ======

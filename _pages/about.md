@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.S. student and graduate assistant in Computer Science at [King Fahd University of Petroleum & Minerals (KFUPM)](https://www.kfupm.edu.sa), where I received my B.S. with First Honors in May 2026. I am a member of KFUPM's Emerging Professor Program, which sponsors doctoral study for future KFUPM faculty, and I am applying to PhD programs for Fall 2027.
+I am an M.S. student in Computer Science at [King Fahd University of Petroleum & Minerals (KFUPM)](https://www.kfupm.edu.sa), where I received my B.S. with First Honors in May 2026. I am a member of KFUPM's Emerging Professor Program, which sponsors doctoral study for future KFUPM faculty, and I am applying to PhD programs for Fall 2027.
 
 ## Research interests
 
