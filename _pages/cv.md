@@ -47,7 +47,7 @@ Preprints & manuscripts
 Honors & awards
 ======
 * **Emerging Professor Program (EPP) Scholarship**, KFUPM, 2025–present
-  * One of about 10 students nominated each year by the department from the Computer Science and Software Engineering programs
+  * One of a few students nominated each year from Computer Science and Software Engineering
   * Full financial sponsorship for doctoral study
 * **First Honors**, KFUPM, 2026
 * **Dean's List**, College of Computing and Mathematics, KFUPM, Fall 2025 and Spring 2026
