@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/waveflow-uie
 date: 2026-09-10
 authors: '<b>Abdulaziz Alfaraj</b>, Mohammed Al Naser, Hassan Al Nasser, Muzammil Behzad'
-status: 'Manuscript'
+status: 'Submitted to Scientific Reports; <a href="https://arxiv.org/abs/2611.15457">arXiv:2611.15457</a>'
 excerpt: 'A single-pipeline wavelet-domain flow model for underwater image restoration, about 4× faster at inference than a two-stage diffusion baseline.'
 ---
 
@@ -14,5 +14,7 @@ Underwater images suffer from color distortion, scattering, and loss of detail, 
 Compared with the two-stage WF-Diff diffusion baseline, WaveFlow-UIE cuts inference time by about 4× at 256 × 256 resolution while remaining especially competitive on perceptual metrics (LPIPS, FID). Reducing inference from five flow steps to one keeps nearly all of the restoration quality and gives a further 4× speedup. We benchmark against five published methods on six underwater datasets.
 
 This work was done with Dr. Muzammil Behzad at KFUPM.
+
+**Preprint:** [arXiv:2611.15457](https://arxiv.org/abs/2611.15457)
 
 **Code:** [github.com/BRAIN-Lab-AI/WaveLift-Fast-Frequency-Guided-Underwater-Restoration](https://github.com/BRAIN-Lab-AI/WaveLift-Fast-Frequency-Guided-Underwater-Restoration)
